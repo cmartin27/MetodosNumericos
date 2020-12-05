@@ -1,4 +1,4 @@
-# MetodosNumericos
-Repositorio para la asignatura Métodos Numéricos
+# Metodos Numericos
+## Máster Universitario en Computación Gráfica, Simulación y Realidad Virtual
 
-Máster Universitario en Computación Gráfica, Simulación y Realidad Virtual
+
